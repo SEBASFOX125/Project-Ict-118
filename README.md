@@ -77,8 +77,8 @@ Solution: Used media queries and Bootstrap’s grid system. Tested responsivenes
 📁 GitHub Repo: https://github.com/yourusername/portfolio-project
 
 📝 Author
-[Bello mubarak]
-matric number:2024/13199
+Bello mubarak
+Matric number:2024/13199
 100 Level Student
 Bells University of Technology – New Horizons
 
