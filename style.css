@@ -1,0 +1,72 @@
+.container-fluid {
+  font-family: 'Poppins', sans-serif;
+}
+
+.bg-dark-blue {
+  background-color: #001f4d !important;
+}
+
+.navbar-nav .nav-link {
+  font-weight: bold;
+}
+
+.gap-35 > .nav-item {
+  margin-right: 35px;
+}
+        #hero {
+            background-image:url("https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_1280.jpg"); 
+            background-size: cover;
+            background-size: 110%;
+            background-position: center;
+            padding: 100px 20px;
+            color: white;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+      
+            
+
+
+        
+          }
+        .intro {
+            
+            font-size: 32px;
+            background-color: rgba(0, 0, 139, 0.7);
+            padding-left:33px ;
+            }
+            .hero-image {
+                width: 37%;
+              
+                
+          
+            }
+   
+            
+          footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #111;
+    color: white;
+  }
+
+        .content{
+  padding-left: 20px;
+ }
+    
+ .no-style {
+  text-decoration: none;
+  color: black;
+  
+}
+
+.skillstats1{
+  padding-bottom:20px;
+}
+.skillstats2{
+  padding-bottom:20px
+}
+.skillstats3{
+  padding-bottom: 20px;
+}
