@@ -74,7 +74,7 @@ Solution: Used media queries and Bootstrap’s grid system. Tested responsivenes
 
 ✅ Live Demo & Repository
 🔗 Live Site: https://streamcrypt.github.io/Project-Ict-118/
-📁 GitHub Repo:https://streamcrypt.github.io/Project-Ict-118.git
+📁 GitHub Repo:https://github.com/streamcrypt/Project-Ict-118.git
 
 📝 Author
 Bello mubarak
