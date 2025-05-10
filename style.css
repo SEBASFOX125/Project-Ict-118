@@ -3,7 +3,7 @@
 }
 
 .bg-dark-blue {
-  background-color: #001f4d !important;
+  background-color: #001f4d;
 }
 
 .navbar-nav .nav-link {
@@ -44,14 +44,16 @@
   }
 }
             .hero-image {
-                width: 37%;        }
-   
-            .hero-image {
-                width: 37%;
-              
-                
-          
+                width: 37%; 
             }
+    .intro {
+            
+            
+            background-color: rgba(0, 0, 139, 0.7);
+            
+            }
+   
+
        .content{
   padding-left: 10px;
  }
