@@ -55,7 +55,7 @@ Push to your GitHub repository
 
 Link your repo with GitHub Pages, Netlify, or Vercel for deployment
 
-🧩 Challenges Faced and Solutions
+🧩Challenges Faced and Solutions
 1. Photo Carousel (Bootstrap)
 Challenge: Understanding how Bootstrap's carousel classes and structure work
 Solution: Studied Bootstrap Carousel documentation, watched YouTube tutorials, and dissected example code until I understood the use of .carousel, .carousel-inner, .carousel-item, and how JavaScript transitions apply.
