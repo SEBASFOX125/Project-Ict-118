@@ -1,62 +1,57 @@
-Frontend Portfolio Project
-Prepared for: Bells University of Technology - New Horizons
-Course Code: ICT 118
-Student Level: 100 Level
-Project Duration: 30 April – 30 May 2025
+# 🎯 Frontend Portfolio Project
 
-📌 Project Overview
-This is a Frontend Portfolio Website created as part of an interview simulation for the fictional company Tech-Genie International. The portfolio showcases my technical skills, completed JavaScript projects, and professional background. This project was assigned by the New Horizons ICT Instructor and designed to reinforce real-world frontend development skills including HTML5, CSS3, JavaScript, and responsive design.
+**Prepared for:** Bells University of Technology - New Horizons  
+**Course Code:** ICT 118  
+**Student Level:** 100 Level  
+**Project Duration:** 30 April – 30 May 2025
 
-✨ Features Implemented
-Homepage: Hero section with call-to-action and smooth navigation
+---
 
-About Me: Responsive section with background, skills, and career goals
+## 📌 Project Overview
 
-Projects Section: Interactive JavaScript project gallery with filtering
+This is a Frontend Portfolio Website created as part of an interview simulation for the fictional company **Tech-Genie International**. The portfolio showcases my technical skills, completed JavaScript projects, and professional background. This project was assigned by the New Horizons ICT Instructor and designed to reinforce real-world frontend development skills including **HTML5**, **CSS3**, **JavaScript**, and **responsive design**.
 
-Skills Section: Technical skillset visualized using icons and progress bars
+---
 
-Experience Section: Timeline of educational and project-based experience
+## ✨ Features Implemented
 
-Contact Form: Responsive form with client-side validation and feedback
+- **Homepage**: Hero section with call-to-action and smooth navigation  
+- **About Me**: Responsive section with background, skills, and career goals  
+- **Projects Section**: Interactive JavaScript project gallery with filtering  
+- **Skills Section**: Technical skillset visualized using icons and progress bars  
+- **Experience Section**: Timeline of educational and project-based experience  
+- **Contact Form**: Responsive form with client-side validation and feedback  
+- **Responsive Design**: Fully responsive layout across devices using media queries  
+- **Footer Section**: Dynamic date/time display, copyright  
 
-Responsive Design: Fully responsive layout across devices using media queries
+---
 
-Footer Section: Dynamic date/time display, copyright
+## 🛠 Technologies Used
 
-🛠 Technologies Used
-HTML5 – for semantic content structure
+- **HTML5** – for semantic content structure  
+- **CSS3** – Flexbox and Grid layouts, responsiveness  
+- **JavaScript** – interactivity, filtering, form validation, dynamic elements  
+- **Bootstrap** – component styling and layout  
+- **Font Awesome** – icons  
+- **Git & GitHub** – version control and code hosting  
+- **GitHub Pages / Netlify / Vercel** – live deployment platform  
 
-CSS3 – Flexbox and Grid layouts, responsiveness
+---
 
-JavaScript – interactivity, filtering, form validation, dynamic elements
+## ⚙️ Setup Instructions
 
-Bootstrap – component styling and layout
-
-Font Awesome – icons
-
-Git & GitHub – version control and code hosting
-
-GitHub Pages / Netlify / Vercel – live deployment platform
-
-⚙️ Setup Instructions
-Clone the repository:
-
-bash
-Copy code
+### Clone the repository:
+```bash
 git clone https://github.com/yourusername/portfolio-project.git
 cd portfolio-project
 Open in your code editor (e.g., VS Code)
-
 Run locally:
-
 Open index.html in your browser
 
 Ensure internet connection for Bootstrap/CDN links
 
 Deployment:
-
-Push to GitHub repository
+Push to your GitHub repository
 
 Link your repo with GitHub Pages, Netlify, or Vercel for deployment
 
@@ -79,12 +74,12 @@ Solution: Used media queries and Bootstrap’s grid system. Tested responsivenes
 
 ✅ Live Demo & Repository
 🔗 Live Site: https://yourusername.github.io/portfolio-project
-
 📁 GitHub Repo: https://github.com/yourusername/portfolio-project
 
 📝 Author
-[Your Full Name]
+[Bello mubarak]
+matric number:2024/13199
 100 Level Student
 Bells University of Technology – New Horizons
 
-Instructor: Ayuba Muhammad (Senior Software Developer, New Horizons ICT)
+Instructor: Ayuba Muhammad (Senior Software Developer, New Horizons ICT
