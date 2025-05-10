@@ -73,8 +73,8 @@ Challenge: Sections overlapping on smaller screens
 Solution: Used media queries and Bootstrap’s grid system. Tested responsiveness using browser dev tools and fixed layout issues by adding col-sm, col-md classes and removing fixed widths.
 
 ✅ Live Demo & Repository
-🔗 Live Site: https://yourusername.github.io/portfolio-project
-📁 GitHub Repo: https://github.com/yourusername/portfolio-project
+🔗 Live Site: https://streamcrypt.github.io/Project-Ict-118/
+📁 GitHub Repo:https://streamcrypt.github.io/Project-Ict-118.git
 
 📝 Author
 Bello mubarak
