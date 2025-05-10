@@ -34,13 +34,13 @@
 
             @media (max-width: 768px) {
   .intro {
-    font-size: 20px;
+    font-size: 9x;
   }
 }
 
 @media (max-width: 480px) {
   .intro {
-    font-size:16px;
+    font-size:10px;
   }
 }
             .hero-image {
@@ -58,6 +58,10 @@
                 
           
             }
+       .content{
+  padding-left: 10px;
+ }
+    
    
             
           footer {
