@@ -19,7 +19,7 @@
          #hero {
             background-image:url("images/huh.png"); 
             background-size: cover;
-            background-size: 80%;
+            background-size: 110%;
             background-position: center;
             padding: 100px 20px;
             background-repeat: no-repeat;
@@ -41,7 +41,7 @@
      
 .intro{
   align-items: center;
-  float:center;
+  
   display:flex;
 }
    
