@@ -13,6 +13,9 @@
 .gap-35 > .nav-item {
   margin-right: 35px;
 }
+.navlink{
+  color: black;}
+
         #hero {
             background-image:url("https://cdn.pixabay.com/photo/2020/01/26/20/14/computer-4795762_1280.jpg"); 
             background-size: cover;
@@ -45,9 +48,7 @@
 }
 
 }
-            .hero-image {
-                width: 37%; 
-            }
+            
     .intro {
             
             
