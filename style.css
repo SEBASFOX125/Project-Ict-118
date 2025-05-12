@@ -34,14 +34,16 @@
 
             @media (max-width: 768px) {
   .intro {
-    font-size: 9x;
+    font-size: 21px;
   }
 }
 
 @media (max-width: 480px) {
   .intro {
-    font-size:10px;
+    font-size:20px;
   }
+}
+
 }
             .hero-image {
                 width: 37%; 
