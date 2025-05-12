@@ -17,14 +17,14 @@
   color: black;}
 
          #hero {
-            background-image:url("images/huh.png"); 
+            background-image:url("https://i.imgur.com/MIxecpr.jpeg"); 
             background-size: cover;
             background-size: 110%;
             background-position: center;
             padding: 100px 20px;
             background-repeat: no-repeat;
             color:black;
-            text-align: left;
+            text-align: center;
             display: flex;
             align-items: center;
             justify-content: center;
@@ -42,7 +42,6 @@
 .intro{
   align-items: center;
   
-  display:flex;
 }
    
 
