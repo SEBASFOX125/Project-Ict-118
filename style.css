@@ -20,12 +20,10 @@
             background-image:url("https://i.imgur.com/MIxecpr.jpeg"); 
             background-size: cover;
             background-size: 80%;
-            background-position: center;
             color: black;
             text-align: center;
             background-repeat:no-repeat;
             align-items: center;
-            justify-content: center;
             position:relative;
       
             
@@ -43,7 +41,7 @@
             
             background-color: rgba(0, 0, 139, 0.7);
             display:flex;
-            float:center;
+            
             }
    
 
