@@ -19,10 +19,12 @@
 
  .hero-image{
    background-size:cover;
-   background-size:120%
+   background-size:120%;
+   
  }
 .intro{
-  text-align:center;s
+  text-align:center;
+  colour:black;
 }
 
 
