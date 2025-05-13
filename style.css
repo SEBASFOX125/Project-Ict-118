@@ -21,9 +21,10 @@
             background-size: cover;
             background-size: 110%;
             background-position: center;
-            padding: 100px 20px;
+            padding-top:-20px;
+           padding-bottom:-20px;
             background-repeat: no-repeat;
-            color:black;
+            color:dark blue;
             text-align: center;
             display: flex;
             align-items: center;
