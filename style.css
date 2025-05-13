@@ -1,17 +1,4 @@
-.hero-image {
-  position: relative;
-  background-image: url("https://i.imgur.com/i1p9IoW.png");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  display: flex;
-  align-items: center;  
-  justify-content: center; 
-  color: white;
-  overflow: hidden;
-  text-align: center;
-}
-  
+
   .container-fluid {
   font-family: 'Poppins', sans-serif;
 }
@@ -32,14 +19,6 @@
 
  
 
-
-.intro {
-  position: relative;
-  padding: 10px;
-  font-size:15px;
-  text-align:center;
-  
-}
 
 
 
