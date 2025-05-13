@@ -21,16 +21,15 @@
             background-size: cover;
             background-size: 110%;
             background-position: center;
-            padding-top:-20px;
-           padding-bottom:-20px;
+            background-color:#001f4d;
             background-repeat: no-repeat;
-            color:dark blue;
+            color:darkblue;
             text-align: center;
             display: flex;
             align-items: center;
             justify-content: center;
             position: relative;
-            
+      
 
 
         
