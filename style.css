@@ -28,8 +28,11 @@
 
 .intro {
   position: relative;
-  z-index: 2; /* Make sure it's above the overlay */
-  padding: 20px;
+  z-index: 2;
+  padding: 10px;
+  font size:15px;
+  text-align:center;
+  
 }
 
 
