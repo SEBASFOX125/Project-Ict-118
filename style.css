@@ -21,7 +21,7 @@
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
-            color:white;
+            color:Black;
            background-size:120%;
            position:relative;
            align-items:center;
@@ -40,6 +40,8 @@
      
 .intro{
   align-items: center;
+  display:flex;
+  justify-content:center;
   
 }
    
