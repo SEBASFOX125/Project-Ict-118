@@ -17,8 +17,13 @@
 .navlink{
   color: black;}
 
- 
-
+ .hero-image{
+   background-size:cover;
+   background-size:120%
+ }
+.intro{
+  text-align:center;s
+}
 
 
 
