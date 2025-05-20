@@ -27,6 +27,8 @@ body {
 .hero{
   text-align:center;
   colour:black;
+  justify-content:center;
+  
 }
 
 
