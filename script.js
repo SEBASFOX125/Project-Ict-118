@@ -1,17 +1,24 @@
-function updateDateTime() {
-    const now = new Date();
-    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-    
-    // Get current date and time
-    const currentDate = now.toLocaleDateString('en-US', options);
-    const currentTime = now.toLocaleTimeString('en-US');
-    
-    // Display date and time on the page
-    document.getElementById('date-time').innerHTML = `<strong>Date:</strong> ${currentDate} <br> <strong>Time:</strong> ${currentTime}`;
+
+window.addEventListener('DOMContentLoaded', () => {
+  document.querySelectorAll('.fade-in').forEach(el => {
+    el.classList.add('fade-in');
+  });
+});
+
+document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+  anchor.addEventListener('click', e => {
+    e.preventDefault();
+    document.querySelector(anchor.getAttribute('href')).scrollIntoView({
+      behavior: 'smooth'
+    });
+  });
+});
+window.addEventListener('scroll', () => {
+  const navbar = document.querySelector('.navbar');
+  if (window.scrollY > 0) {
+    navbar.classList.add('sticky');
+  } else {
+    navbar.classList.remove('sticky');
   }
+});
 
-  // Update the date and time every second
-  setInterval(updateDateTime, 1000);
-
-  // Initial call to display immediately
-  updateDateTime();
