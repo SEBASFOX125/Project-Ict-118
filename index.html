@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOM8z4+2e5j7x1l5Z5l5z5l5Z5l5Z5l5Z5l5Z5" crossorigin="anonymous">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
-  <title>my portfolio</title>
+  <title>My portfolio</title>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg">
@@ -42,10 +42,6 @@
           <a class="nav-link text-black" href="#experience">Experience</a>
         </li>
       </ul>
-      <form class="d-flex ms-auto" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
-        <button class="btn btn-outline-dark" type="submit">Search</button>
-      </form>
     </div>
   </div>
 </nav>
@@ -354,6 +350,37 @@ You’re welcome to try the <a href="https://streamcrypt.github.io/" >Image Sear
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
   <script src="script.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOM8z4+2e5j7x1l5Z5l5z5l5Z5l5Z5l5Z5l5Z5" crossorigin="anonymous"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Smooth scroll for anchor links
+  const links = document.querySelectorAll('a[href^="#"]');
+  for (let link of links) {
+    link.addEventListener('click', function (e) {
+      const target = document.querySelector(this.getAttribute('href'));
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth' });
+      }
+    });
+  }
+
+  // Date and time updater
+  function updateDateTime() {
+    const now = new Date();
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    const currentDate = now.toLocaleDateString('en-US', options);
+    const currentTime = now.toLocaleTimeString('en-US');
+
+    const dateTimeElement = document.getElementById('date-time');
+    if (dateTimeElement) {
+      dateTimeElement.innerHTML = `<strong>Date:</strong> ${currentDate} <br> <strong>Time:</strong> ${currentTime}`;
+    }
+  }
+
+  setInterval(updateDateTime, 1000);
+  updateDateTime();
+});
+</script>
 
 </body>
 </html>
