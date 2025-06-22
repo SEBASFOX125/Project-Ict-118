@@ -42,7 +42,7 @@ This is a Frontend Portfolio Website created as part of an interview simulation 
 
 ### Clone the repository:
 
-git clone https://github.com/streamcrypt/Project-Ict-118.git
+git clone https://github.com/SEBASFOX125/Project-Ict-118/blob/bba0b083dbbfa2c0b7e1f859fe51a115ca654efd/index.html
 cd portfolio-project
 Open in your code editor (e.g., VS Code)
 Run locally:
@@ -74,7 +74,7 @@ Solution: Used media queries and Bootstrap’s grid system. Tested responsivenes
 
 ✅ Live Demo & Repository
 🔗 Live Site: https://streamcrypt.github.io/Project-Ict-118/
-📁 GitHub Repo:https://github.com/streamcrypt/Project-Ict-118.git
+📁 GitHub Repo:https://github.com/SEBASFOX125/Project-Ict-118/blob/bba0b083dbbfa2c0b7e1f859fe51a115ca654efd/index.html
 
 📝 Author
 ## Ogunibi Olamide
