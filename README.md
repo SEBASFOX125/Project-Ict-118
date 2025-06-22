@@ -77,8 +77,8 @@ Solution: Used media queries and Bootstrap’s grid system. Tested responsivenes
 📁 GitHub Repo:https://github.com/streamcrypt/Project-Ict-118.git
 
 📝 Author
-## Bello mubarak
-## Matric number:2024/13199
+## Ogunibi Olamide
+## Matric number:2024/13148
 ## 100 Level Student
 ## Bells University of Technology – New Horizons
 
