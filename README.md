@@ -1,6 +1,8 @@
 # 🎯 Frontend Portfolio Project
 
 **Prepared for:** Bells University of Technology - New Horizons  
+**Name:**Ogunibi Olamide
+**Matric number:**2024/13148
 **Course Code:** ICT 118  
 **Student Level:** 100 Level  
 **Project Duration:** 30 April – 30 May 2025
