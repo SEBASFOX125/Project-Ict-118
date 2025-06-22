@@ -1,6 +1,4 @@
 # 🎯 Frontend Portfolio Project
-
-**Prepared for:** Bells University of Technology - New Horizons  
 **Name:** Ogunibi Olamide
 **Matric number:** 2024/13148
 **Course Code:** ICT 118  
