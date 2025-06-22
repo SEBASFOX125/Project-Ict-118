@@ -42,7 +42,7 @@ This is a Frontend Portfolio Website created as part of an interview simulation 
 
 ### Clone the repository:
 
-git clone https://github.com/yourusername/portfolio-project.git
+git clone https://github.com/streamcrypt/Project-Ict-118.git
 cd portfolio-project
 Open in your code editor (e.g., VS Code)
 Run locally:
